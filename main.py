@@ -15,7 +15,7 @@ import telebot
 from telebot.types import Message
 
 # Initialize the Telegram bot
-bot = telebot.TeleBot('PUT YOUR BOT TOKEN HERE')
+bot = telebot.TeleBot('7195738934:AAE5ifhCN-JFDQ7aHjuioFWbi_4GgY9Noug')
 print('Bot started')
 
 # Function to get the crypto symbol from the user
